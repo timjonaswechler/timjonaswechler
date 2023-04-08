@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there <img src="https://raw.githubusercontent.com/timjonaswechler/timjonaswechler/main/wave.gif" width="30px" height="30px" />
 
 <!--
 **timjonaswechler/timjonaswechler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🎓 Education:
+- **2015**: Apprenticeship as IT specialist (system integration technology)
+- **2019-Present**: Study in applied physics, Hochschule RheinMain
+
+## 💻 Technical Skills:
+- pLC programming: TwinCAT3
+- Programming languages: Python, C#, C++, MATLAB
+- Database management: SQL
+- Web design: HTML, CSS, JavaScript
