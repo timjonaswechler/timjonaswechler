@@ -14,7 +14,7 @@
 
 
 ## 🚀 Projects
-- **Project Name**: Brief description. [View Repo](URL_to_repo)
+- **HS-RM unoffical Report LaTeX Template**: Brief description. [View Repo]([URL_to_repo](https://github.com/timjonaswechler/hsrm-unoffical-report-latex))
 
 ## 📫 How to Reach Me
 - **Email**: your-email@example.com
