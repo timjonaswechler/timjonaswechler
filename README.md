@@ -1,9 +1,9 @@
 # Hi there <img src="https://raw.githubusercontent.com/timjonaswechler/timjonaswechler/main/wave.gif" width="30px" height="30px" />
 
 ## 🎓 Education
-- **2015**: Apprenticeship as IT Specialist (System Integration Technology)
 - **2019-Present**: Bachelor of Science in Applied Physics, Hochschule RheinMain
-
+- **2015**: Apprenticeship as IT Specialist (System Integration Technology)
+  
 ## 💻 Technical Skills
 ## 💻 Technical Skills:
 - pLC programming: TwinCAT3
