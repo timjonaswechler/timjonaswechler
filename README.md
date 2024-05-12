@@ -15,6 +15,7 @@
 
 ## 🚀 Projects
 - **HS-RM unoffical Report LaTeX Template**: Brief description. [View Repo](https://github.com/timjonaswechler/hsrm-unoffical-report-latex)
+- **CV LaTeX Template**: Brief description. [View Repo](https://github.com/timjonaswechler/cv-latex)
 
 ## 📫 How to Reach Me
 - **Email**: your-email@example.com
