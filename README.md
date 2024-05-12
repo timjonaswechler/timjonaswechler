@@ -18,5 +18,5 @@
 
 ## 📫 How to Reach Me
 - **Email**: your-email@example.com
-- **LinkedIn**: [Tim-Jonas Wechler](linkedin.com/in/tim-jonas-wechler-89a983243)
+- **LinkedIn**: [Tim-Jonas Wechler](https://linkedin.com/in/tim-jonas-wechler-89a983243)
 
