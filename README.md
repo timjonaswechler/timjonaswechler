@@ -1,8 +1,9 @@
 # Hi there <img src="https://raw.githubusercontent.com/timjonaswechler/timjonaswechler/main/wave.gif" width="30px" height="30px" />
+I'm Tim-Jonas Wechler, a passionate developer and physicist in training, constantly exploring the synergy between technology and practical applications.
 
 ## 🎓 Education
 - **2019-Present**: Bachelor of Science in Applied Physics, Hochschule RheinMain
-- **2015**: Apprenticeship as IT Specialist (System Integration Technology)
+- **2012-2015**: Apprenticeship as IT Specialist (System Integration Technology)
   
 ## 💻 Technical Skills
 - PLC programming: TwinCAT3
@@ -10,12 +11,9 @@
 - Database management: ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 - Web design: ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-
-
-
 ## 🚀 Projects
-- **HS-RM unoffical Report LaTeX Template**: Brief description. [View Repo](https://github.com/timjonaswechler/hsrm-unoffical-report-latex)
-- **CV LaTeX Template**: Brief description. [View Repo](https://github.com/timjonaswechler/cv-latex)
+- **HS-RM Unofficial Report LaTeX Template**: A LaTeX template designed to simplify report writing for HS-RM students, providing a clean, structured format. [View Repo](https://github.com/timjonaswechler/hsrm-unoffical-report-latex)
+- **CV LaTeX Template**: This template helps create a professional-looking CV, emphasizing structure and design, suitable for academic and professional use. [View Repo](https://github.com/timjonaswechler/cv-latex)
 
 ## 📫 How to Reach Me
 - **Email**: your-email@example.com
