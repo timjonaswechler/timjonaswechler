@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Studying **Applied Physics (B.Sc.)** at Hochschule RheinMain
+- 🎓 Studying **Applied Physics (B.Sc.)**
 - 🔧 Background as **IT Specialist** (System Integration Technology)
 - 🦀 Currently deep-diving into **Rust** for systems programming
 - ⚛️ Exploring the intersection of **physics simulations** and software
@@ -69,23 +69,13 @@
 
 ### 📄 LaTeX Templates
 
-#### [HS-RM Unofficial Report LaTeX Template](https://github.com/timjonaswechler/hsrm-unoffical-report-latex)
-A LaTeX template designed to simplify report writing for HS-RM students, providing a clean, structured format.
-- **Technologies**: LaTeX
-- **Features**: Predefined sections, consistent formatting, easy customization
-
-#### [CV LaTeX Template](https://github.com/timjonaswechler/cv-latex)
-A professional CV template emphasizing structure and design, suitable for academic and professional use.
-- **Technologies**: LaTeX
-- **Features**: Modern design, easy to use, customizable sections
-
 ---
 
 ## 🎓 Education
 
 | Period | Qualification |
 |--------|--------------|
-| 2019 – Present | B.Sc. Applied Physics, Hochschule RheinMain |
+| 2019 – Present | B.Sc. Applied Physics |
 | 2012 – 2015 | Apprenticeship, IT Specialist (System Integration) |
 
 ---
