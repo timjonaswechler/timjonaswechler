@@ -55,8 +55,7 @@
 </div>
 
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=timjonaswechler&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=timjonaswechler)](https://git.io/streak-stats)
 
 </div>
 
