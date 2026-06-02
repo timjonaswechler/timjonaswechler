@@ -45,35 +45,13 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=timjonaswechler" alt="GitHub Streak" /></a>
-
-</div>
-
-<div align="center">
-![GitHub Streak](https://streak-stats.demolab.com?user=timjonaswechler)
-</div>
-
----
-
 ## 🚀 Projects
 
 ### 🦀 Rust
-> *Currently working on Rust-based simulation and tooling projects — stay tuned!*
+- [TradingBot](https://github.com/timjonaswechler/TradingBot)
+- [JobRadar](https://github.com/timjonaswechler/job-radar)
 
 ### 📄 LaTeX Templates
-
----
-
-## 🎓 Education
-
-| Period | Qualification |
-|--------|--------------|
-| 2019 – Present | B.Sc. Applied Physics |
-| 2012 – 2015 | Apprenticeship, IT Specialist (System Integration) |
 
 ---
 
