@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Sc. **Applied Physics **
+- 🎓 B.Sc. **Applied Physics**
 - 🔧 Background as **IT Specialist** (System Integration Technology)
 - 🌱 Always learning – currently focused on **WebAssembly** and **simulation tooling**
 - 💡 Interested in automation, numerical methods, and clean software architecture
