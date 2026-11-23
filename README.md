@@ -13,33 +13,16 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Studying **Applied Physics (B.Sc.)**
+- 🎓 B.Sc. **Applied Physics **
 - 🔧 Background as **IT Specialist** (System Integration Technology)
-- 🦀 Currently deep-diving into **Rust** for systems programming
-- ⚛️ Exploring the intersection of **physics simulations** and software
 - 🌱 Always learning – currently focused on **WebAssembly** and **simulation tooling**
 - 💡 Interested in automation, numerical methods, and clean software architecture
 
 ---
 
-## 💻 Technical Skills
-
-### Languages
-![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-
----
-
 ## 🚀 Projects
 
-### 🦀 Rust
-- [TradingBot](https://github.com/timjonaswechler/TradingBot)
-- [JobRadar](https://github.com/timjonaswechler/job-radar)
-
-### 📄 LaTeX Templates
+- [paperkite](https://github.com/timjonaswechler/paperkite)
 
 ---
 
